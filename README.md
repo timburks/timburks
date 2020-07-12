@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings, GitHub User! 👋
+
+I'm a software developer and resident of Northern California. I spent a decade building Electronic Design Automation systems and another building mobile apps.
+Now I'm working at Google on the thing that holds all things together: APIs.
+
+For something like a blog, visit [timburks.me](https://timburks.me).
 
 <!--
 **timburks/timburks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
